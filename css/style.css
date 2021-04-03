@@ -1,0 +1,76 @@
+body{
+margin: 0;
+padding: 0;
+}
+.test{
+font-size: 20px;
+background-color: rgb(172, 176, 180);
+padding-bottom: 20px;
+padding-top: 15px;
+padding-left: 30px;
+display: flex;
+color: rgb(65, 62, 58);
+}
+
+.Test1{
+background-color: rgb(137, 139, 139);
+    
+}
+
+.pannier{
+    list-style: none;
+    display: flex;
+}
+.ikram {
+    padding: 10px;
+    padding-left: 950px;
+   font-size: 30px;
+}
+.about1{
+    padding: 14px;
+}
+.test1 ul{
+list-style: none;
+display: flex;
+align-items: center;
+ background-color: rgb(250, 249, 245);
+}
+.test li{
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+
+}
+.ul li i {
+padding-bottom: 60px;
+padding-top: 20px;
+}
+
+.test3{
+margin-left: 320px;
+padding-right: 10px;
+padding-left: 10px;
+}
+.test6{
+margin: 2px 99px 2px 32px;
+}
+
+.test8 {
+border: none;
+text-align: center;
+width: 32px;
+font-size: 16px;
+color: #43484D;
+font-weight: 300;
+}
+#test0{
+margin: 32px;
+}
+
+
+.test5 img{
+height: 100px;
+width: 100px;
+padding-left: 30px;
+}
+ 
